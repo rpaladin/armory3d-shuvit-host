@@ -1,0 +1,7 @@
+#?RADIANCE
+# Output from cmft.
+FORMAT=32-bit_rle_rgbe
+EXPOSURE=1
+
+-Y 16 +X 32
+¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|¶}k|«d6|©b5|§`4|¥_3|¤_3|¦b7|ªe;|­i@|±lE|´pJ|¶sO|¸vU|ÈŠ|ëÅò|‡¯}˜˜à}QU~RW…~š¡ò}‚³}wl‹}|r’}|oŠ}ðÍñ|á³À|Î–‹|º{\|¨e;|©d8|¬e8|¬e7|«d6|Çp9|¸f3|­`0|¨^0|¦^1|¦_2|¨a4|±h9|¼p?|ÄvD|àšˆ|…l‚}Ÿ“Ò}]`—~o}Ñ~TiºiŠ÷7J„€C\¢€Ga©€?U“€\uÁu‚Â~jj‘~­“¦}‰Z=}ŒY7}ŠT0}L)}æ…E|Óx=|Çp9|ö„?|Êj2|·`.|§Y+| W,|ŸY.|©a3|¹m:|Ö€E|õ™c|’ha}´—Á}GOˆ7F„€RpØ€=V§Uzç5M‚<WŸ‚8R“‚W|ÙC[›Qc€op˜¡{t~[:~‚N)~è‡B}Ét:}°c1}O&}ö„?|ü~A}­J}…6}µV&|£R'| V+|ÑzB|›b4}ÑN~Í“XµŠy~wnJX—€;O–Gc¼‚/E„ƒ>[­ƒMqÐƒCc´ƒ@^¨ƒa‹ó‚>T‚‘”Ì€ÔŸ—ºm6²c%Üz0~½j1~£_7~Ô…`~±fA~ü~A}Ñk9êa'~Œ2~ÓJ}¥E}G'}¤d:}œh9~®{C€ÆRšqF‚ª„_‚ˆy‚gm˜‚_yÎ‚7NƒGg½ƒV}àƒ_ŠòƒX~ÛƒUn´‚^e“‚kt€è•bðŠ9ù‹2òŒ>÷£s±‚s€Íˆf€Ÿ];€Ñk9•J$§H€ =ÇG~;~âo>}û™Z}U/¦t?ÄŒO‚§yGƒÑ›cƒŽpWƒžŠ‚gq¤‚c‚à‚=T•ƒGd­ƒLj´ƒBZ“ƒco¢òÏêÙ’lìI‡P"€“U!€Ÿ`1€Ô‘m€ï£€‡S7‚ØwC•J$D ‚«K ŸA€¦BÎY*~›L)~¦c:~¦n=Ý™Tƒ\3ƒå£]ƒ‘h>„½ŠYƒÀ‘m‚Ç°Ã‘¤÷Oc£‚Wp·‚Xo¯‚‘ªûÞ»Ê¬qNÈy>ø•E•Y'€¡_(€¼r;€˜aAÑS‚ð‰O‚Äg5‚D ‚Ã\)‚†;‚„9õk/öx=~¸`6~¾sE~²vEËŠLéŸX‚ÆˆLƒöªaƒ¦sDƒ¶}O‚¾ˆlÞºÏ€®­ë€¢¬ô€›žÕ€ˆx‡€±rJ·k3å…8ŒQ!€¢_&€©c(€Ár7€\5à}E‚‡I%ƒõ{;‚Ã\)‚ K"‚îl/‚:øv8æ}F~²f>~¿yN~ªrG™f; k<‚ü§^‚’`6ƒ×‹R‚ŠZ7‚ jH¶€k€èµ¸°’¡–wzŠ[B—Y,³f+Þ}1ƒJ€”U€”U!€šY(€Õy?€‹K'‚¶`/‚¸[+‚ K"‚²U'A£M$€¡S,œ\:~ƒR7~šfF~†[<¹{K€¬qBô[P/‚Ë€M˜a=Ï†Y€ý¨z›jT×”{~­s\~£fE~Ïx=~‡L!¬`%Ëq)ß}-Õy.Án0Êr;Ën:€ŸT)º],²U'Òi6±X.âwC~µpP}•aJ}ˆ\I}À„e}—hL~iFû¤iU<ŠY@óŸx~à“r~®rS€UB½€h~–dR~á‘s}Î€a}Ð|U}Û~L}Äm0~æ3~÷‰5~â5~ð‰N}ÙS}Ýƒ[}’P.Éh7Òi6‹VA}…S?}…TA}ƒUC}ü¨ˆ|÷©|YL}‡`S}œn_}¯|j}Êw}Ü—€}äœ„}æ›…}éœ„}ç˜€}ß’y}Õ‰o}Êe}¿vZ}·nP}²hH}¯dB}¯c?}¬a>}¨`?}¡_A}›]C}”ZD}‘YD}‹VA}‹VA}Q@}ú¡€|ø¡|ù¤…|û¨Š|ý¬|€XJ}‡]P}ŽcU}•hZ}Ÿn_}ªtd}²yg}¸|h}¼}h}½|f}»yc}·u^}²qY}­lT}§gN}¡bI}œ^E}™\C}”YA}V?}V@}ŠU@}‡T@}ƒS@}R@}Q@}‚TC}‚TD}UE}UE}VG}„XI}‡ZK}Š]M}_O}‘bQ}”dS}—eT}šgU}hV}ŸiV} iV} hU}žgS}œeQ}™bN}—`L}•_J}“]H}‘[G}ŽZF}‹XE}ˆVD}…UC}„UC}„UC}ƒTC}‚TC}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}\K}
